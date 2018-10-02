@@ -1,22 +1,22 @@
-##                                            Dustin Rogers
-##                                          +1 (864) 266-2603
-##                                          Rogers.dustin@gmail.com 
+###                                            Dustin Rogers
+###                                          +1 (864) 266-2603
+###                                          Rogers.dustin@gmail.com 
 
 ### EDUCATION
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
-Master of Economics		December 2012
-Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
+##### Master of Economics, December 2012
+##### Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
 
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
-Majors: Economics, Global Supply Chain Management	May 2006	May 2006	
+##### Majors: Economics, Global Supply Chain Management	May 2006	May 2006	
 
 ### SKILLS & CERTIFICAIONS   
-SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access
-Passed CFA Level 1 Exam
+##### SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access
+##### Passed CFA Level 1 Exam
 
 ### EXPERIENCE
-#### AFLAC		                                                             Columbia, SC 
-#### US FP&A Consultant – Executive Analytics 	                           June 2017 – Present
+#### AFLAC		                                                           ######  Columbia, SC 
+#### US FP&A Consultant – Executive Analytics 	                         ###### June 2017 – Present
 +	Lead monthly executive metrics (financials ratios, KPIs) process reporting to President of US Operations which includes collaborating with division leaders to synthesize results and provide guidance to support executive decisions.
 +	Interprets financial results for strategic initiatives, manages variance analysis against targets, realigns expectations, and coordinates development of corrective action plans to close gaps.
 +	Design and maintain scorecards and P&L statements for strategic initiatives to evaluate the profitability of individual projects compared to plan/forecast.
