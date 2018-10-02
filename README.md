@@ -4,10 +4,10 @@
  <b>Rogers.dustin@gmail.com </b><br> 
 </p>
  
-### EDUCATION
-#### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
-##### MA, Economics December 2012
-##### Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
+EDUCATION
+DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina <p align="center"><b>Columbia, SC</b><br>
+MA, Economics December 2012
+Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
 
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
 ##### BA, Economics, Global Supply Chain Management		                   May 2006	
