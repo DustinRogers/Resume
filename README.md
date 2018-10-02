@@ -1,4 +1,4 @@
-### Dustin Rogers <center>Centered text</center>
+###  <center> Dustin Rogers </center>
 ### +1 (864) 266-2603
 ### Rogers.dustin@gmail.com 
 
