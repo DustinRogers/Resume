@@ -6,7 +6,7 @@
  
 #### EDUCATION
 Darla Moore School of Business - University of South Carolina\
-MA - Economics\  
+MA - Economics
 December 2012 \
 Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
 
