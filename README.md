@@ -4,29 +4,35 @@
  <b>Rogers.Dustin@gmail.com</b><br> 
 </p>
  
-EDUCATION
-DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina <p align="right"><b>Columbia, SC</b><br>
-MA, Economics December 2012
+#### EDUCATION
+DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina
+MA, Economics 
+December 2012
 Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
 
-#### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
-##### BA, Economics, Global Supply Chain Management		                   May 2006	
+DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina 
+BA, Economics, Global Supply Chain Management		                   
+May 2006	
 
-### SKILLS & CERTIFICAIONS   
-##### SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access
-##### Passed CFA Level 1 Exam
+#### SKILLS & CERTIFICAIONS   
+SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access
+Passed CFA Level 1 Exam
 
-### EXPERIENCE
-#### AFLAC		                                                           Columbia, SC 
-#### US FP&A Consultant – Executive Analytics 	                         June 2017 – Present
+#### EXPERIENCE
+AFLAC		                                                           
+Columbia, SC 
+US FP&A Consultant – Executive Analytics 	                         
+June 2017 – Present
 +	Lead monthly executive metrics (financials ratios, KPIs) process reporting to President of US Operations which includes collaborating with division leaders to synthesize results and provide guidance to support executive decisions.
 +	Interprets financial results for strategic initiatives, manages variance analysis against targets, realigns expectations, and coordinates development of corrective action plans to close gaps.
 +	Design and maintain scorecards and P&L statements for strategic initiatives to evaluate the profitability of individual projects compared to plan/forecast.
 +	Primary source of business performance metrics reporting to President of US Operations.
 +	Developed a predictive model using machine learning that leverages up-to-date CRM data to provide an accurate sales pipeline to the sales force and sales leadership.
 
-#### STAPLES		                                                          Columbia, SC 
-#### Senior Financial Analyst                                             July 2016 – June 2017
+STAPLES		                                                          
+Columbia, SC 
+Senior Financial Analyst                                            
+July 2016 – June 2017
 +	Supported the Staples Shared Services Financial Planning and Analysis (FP&A) activities including financial planning and forecasting, business analysis, management reporting, and decision support.
 +	Supported full P&L responsibility by providing financial consulting, strategic support, and analysis of initiatives and special projects to facilitate realization of financial objectives.
 +	Coolaborated and gained consensus among division leaders to prepare executive reporting decks for management meetings.
