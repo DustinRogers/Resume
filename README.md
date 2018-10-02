@@ -2,7 +2,8 @@
  <b>Dustin Rogers </b><br>
  <b>+1 (864) 266-2603 </b><br>
  <b>Rogers.dustin@gmail.com </b><br> 
-  
+</p>
+ 
 ### EDUCATION
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
 ##### MA, Economics December 2012
