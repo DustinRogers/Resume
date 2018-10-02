@@ -1,10 +1,10 @@
-###                                            Dustin Rogers
-###                                          +1 (864) 266-2603
-###                                          Rogers.dustin@gmail.com 
+###<center>Centered text</center> Dustin Rogers
+###<center>Centered text</center> +1 (864) 266-2603
+###<center>Centered text</center> Rogers.dustin@gmail.com 
 
 ### EDUCATION
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
-##### MA, Economics <space><space><space><space><space><space><space><space> December 2012
+##### MA, Economics December 2012
 ##### Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”
 
 #### DARLA MOORE SCHOOL OF BUSINESS, University of South Carolina	Columbia, SC  
