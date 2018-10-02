@@ -15,7 +15,8 @@ BA - Economics & Global Supply Chain Management
 May 2006	
 
 #### SKILLS & CERTIFICAIONS   
-SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access 
+SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access  
+
 Passed CFA Level 1 Exam
 
 #### EXPERIENCE
