@@ -68,3 +68,5 @@ Research Assistant Intern
 January 2008 – August 2008
 + Researched and analyzed state tax laws and policy issues; edited and drafted memoranda regarding revenue projections and impact statements.
 
+
+https://dustinrogers.github.io/
