@@ -20,15 +20,15 @@ Passed CFA Level 1 Exam
 
 #### EXPERIENCE
 AMERICAN LAND & LEISURE	 - Lassen Volcanic National Forest                   
-Campground Manager		                                 
-June 2019 – Present                                     
+Campground Manager	                                                                                       	         
+June 2019 – Present                                                                                                                   
 + Maintained a 15 site campground in the Cascade Mountains of Northern California.
 + Responsible for keeping a consistent and accurate record of all fees collected.
 + Interacted with customers in a positive and friendly manner to ensure safety and a good time while at the campground.
 
 DATALORE                     
-Statistical Consultant                           		
-June 2018 – Present                           
+Statistical Consultant                                                                             		
+June 2018 – Present                                                      
 + Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. 
 + Presented a statistical method for choosing sample size within an A/B test called Power Analysis. 
 + Presented a statistical method for choosing test and control groups to a company who were conducting an experiment.
