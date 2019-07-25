@@ -19,14 +19,28 @@ SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoin
 Passed CFA Level 1 Exam
 
 #### EXPERIENCE
+AMERICAN LAND & LEISURE	 - Lassen Volcanic National Forest
+Campground Manager		
+June 2019 – Present
++ Maintained a 15 site campground in the Cascade Mountains of Northern California.
++ Responsible for keeping a consistent and accurate record of all fees collected.
++ Interacted with customers in a positive and friendly manner to ensure safety and a good time while at the campground.
+
+DATALORE		
+Statistical Consultant		
+June 2018 – Present
++ Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. Link to Github page. 
++ Presented a statistical method for choosing sample size within an A/B test called Power Analysis. Link to Github page. 
++ Presented a statistical method for choosing test and control groups to a company who were conducting an experiment. Link to Github page. 
+
 AFLAC                           
 US FP&A Consultant – Executive Analytics                                                                 
 June 2017 – Present                                                             
-+	Lead monthly executive metrics (financials ratios, KPIs) process reporting to President of US Operations which includes collaborating with division leaders to synthesize results and provide guidance to support executive decisions.
-+	Interprets financial results for strategic initiatives, manages variance analysis against targets, realigns expectations, and coordinates development of corrective action plans to close gaps.
-+	Design and maintain scorecards and P&L statements for strategic initiatives to evaluate the profitability of individual projects compared to plan/forecast.
-+	Primary source of business performance metrics reporting to President of US Operations.
-+	Developed a predictive model using machine learning that leverages up-to-date CRM data to provide an accurate sales pipeline to the sales force and sales leadership.
++ Led monthly business performance metrics process reporting to President of US Operations which included collaborating with division leaders to synthesize results and provided guidance to support executive decisions.
++ Created and presented a quarterly Financial Competitive Intelligence report which analyzed short and long term financial trends and growth strategies across eight of Aflac's closest competitors.
++ Interpreted financial results for internal strategic initiatives, managed variance analysis against targets, realigned expectations, and coordinated development of corrective action plans to close gaps.
++ Designed and maintained scorecards and P&L statements for strategic initiatives to evaluate the profitability of individual projects compared to plan/forecast.
++ Developed a predictive model using machine learning that leverages up-to-date CRM data to provide an accurate sales pipeline to sales leadership.
 
 STAPLES                                       
 Senior Financial Analyst                                               
