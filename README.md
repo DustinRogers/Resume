@@ -19,19 +19,19 @@ SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoin
 Passed CFA Level 1 Exam
 
 #### EXPERIENCE
-AMERICAN LAND & LEISURE	 - Lassen Volcanic National Forest
-Campground Manager		
-June 2019 – Present
+AMERICAN LAND & LEISURE	 - Lassen Volcanic National Forest                   
+Campground Manager		                                 
+June 2019 – Present                                     
 + Maintained a 15 site campground in the Cascade Mountains of Northern California.
 + Responsible for keeping a consistent and accurate record of all fees collected.
 + Interacted with customers in a positive and friendly manner to ensure safety and a good time while at the campground.
 
-DATALORE		
-Statistical Consultant		
-June 2018 – Present
-+ Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. Link to Github page. 
-+ Presented a statistical method for choosing sample size within an A/B test called Power Analysis. Link to Github page. 
-+ Presented a statistical method for choosing test and control groups to a company who were conducting an experiment. Link to Github page. 
+DATALORE                     
+Statistical Consultant                           		
+June 2018 – Present                           
++ Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. 
++ Presented a statistical method for choosing sample size within an A/B test called Power Analysis. 
++ Presented a statistical method for choosing test and control groups to a company who were conducting an experiment.
 
 AFLAC                           
 US FP&A Consultant – Executive Analytics                                                                 
@@ -67,7 +67,7 @@ Research Analyst
 January 2012 – June 2013                                                                
 +	Assisted Director of Research on economic impact analyses and research projects by creating and organizing datasets, performing analysis, and providing written and verbal presentations.
 +	Constructed project proposals, performed subsequent economic impact analysis, and presented results for consulting projects.
-+	Utilized Stata and R to analyze survey and cross-sectional research data and estimate models using different econometric techniques (KNN, Linear& Logistic Regression).
++	Utilized Stata and R to analyze survey and cross-sectional research data and estimate models using different econometric techniques (KNN, Linear & Logistic Regression).
 +	Created a novel database of US utility patents to study knowledge diffusion within a mix of industrial sectors. 
 +	Project Reports: South Carolina’s Cluster Development, March 2012: EngenuitySC Knowledge Economy Metrics, May 2012: SC’s Clean Energy Report , June 2012: Economic Impact of Innovista, July 2012:  SPAWAR Impact, November 2012: The Economic Impact of SC’s Auto Cluster, March 2013
 
