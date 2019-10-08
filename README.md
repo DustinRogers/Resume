@@ -28,7 +28,8 @@ June 2019 – Present
 
 DATALORE                     
 Statistical Consultant                                                                             		
-June 2018 – Present                                                      
+June 2018 – Present  
++ Work with companies to evaluate their problems, implement statistical based solutions, and validate results.
 + Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. 
 + Presented a statistical method for choosing sample size within an A/B test called Power Analysis. 
 + Presented a statistical method for choosing test and control groups to a company who were conducting an experiment.
