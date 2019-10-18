@@ -1,7 +1,3 @@
-sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
 <p align="center">
  <b>Dustin Rogers</b><br>
  <b>+1 (864) 266-2603</b><br>
