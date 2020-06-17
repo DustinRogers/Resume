@@ -15,20 +15,22 @@ BA - Economics & Global Supply Chain Management
 May 2006
 
 #### SKILLS & CERTIFICAIONS   
-SQL, R, Python, Tableau, Qlikview, SAS, Essbase, SAP, Microsoft Excel, PowerPoint, and Access                                
-Passed CFA Level 1 Exam
+Tableau, Python, R, SQL, Snowflake, AWS/S3, SAS, Qlikview                              
+CFA Level 1 Exam – Dec 2017, Google Analytics Individual Qualification – Dec 2019
 
 #### EXPERIENCE
-AMERICAN LAND & LEISURE	 - Lassen Volcanic National Forest                   
-Campground Manager	                                                                                       	         
-June 2019 – Present                                                                                                                   
-+ Maintained a 15 site campground in the Cascade Mountains of Northern California.
-+ Responsible for keeping a consistent and accurate record of all fees collected.
-+ Interacted with customers in a positive and friendly manner to ensure safety and a good time while at the campground.
+NIKE		
+Insights and Analytics Senior Analyst	(Global Retail Operations)
+February 2020 – Present
++	Partner with global retail operations directors and the data engineering team to create datasets, dashboards, and predictive models that guide insights and support senior leaderships’ decision-making process.
++	Post Covid-19 Recovery - Created a predictive model using China’s post Covid-19 transaction, traffic, and inventory volumes to forecast sanitary supplies and labor hours for retail stores in North America, EMEA, and APLA.
++	House of Sustainability Project – Created a dataset to analyze global retail stores’ energy consumption and emissions. Gained insight into geographic trends and local consumption drivers. Subsequently created a dashboard that allows territory GM’s to identify high consumption stores for targeted energy reduction efforts.
++	Provide ongoing support to an Operational Excellence team by analyzing monthly survey responses from store leaders to guide process improvements within the retail store environment.
+
 
 DATALORE                     
 Statistical Consultant                                                                             		
-June 2018 – Present  
+June 2018 – February 2020
 + Work with companies to evaluate their problems, implement statistical based solutions, and validate results.
 + Created a predictive model to forecast sales for a national wholesale plant distributor. Leveraged Boruta and Recursive Feature Elimination analysis to determine the most important data features and applied the results to both a Lasso and  Random Forest model do predict sales. 
 + Presented a statistical method for choosing sample size within an A/B test called Power Analysis. 
